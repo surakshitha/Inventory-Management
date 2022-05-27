@@ -6,16 +6,16 @@
 
 #### 🚀 Objective
 
-* 🌱 Build a MERN application to help manage inventories in an imaginary store.
-* 🌱 Render a searchable list of products.
-* 🌱 Collect product name, category, price and stock availabilty using forms.
-* 🌱 Allow the user to add and delete products from the list. 
+*  Build a MERN application to help manage inventories in an imaginary store.
+*  Render a searchable list of products.
+*  Collect product name, category, price and stock availabilty using forms.
+*  Allow the user to add and delete products from the list. 
 
 #### 🚀 Implementation
-* 🌱 Simulate CRUD operations by outlining a static object and using event handlers to retrieve, create, and delete items.
-* 🌱 Creating a MongoDB cluster for this object
-* 🌱 Build an API in Node/Express that interacts with MongoDB. 
-* 🌱 Connect application to Node end-points to perform CRUD operations
+*  Simulate CRUD operations by outlining a static object and using event handlers to retrieve, create, and delete items.
+*  Creating a MongoDB cluster for this object
+*  Build an API in Node/Express that interacts with MongoDB. 
+*  Connect application to Node end-points to perform CRUD operations
 
 Product.js
 * Imports Filters, ProductTable, and ProductForm components
